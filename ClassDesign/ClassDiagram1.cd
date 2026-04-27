@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClassDesign.Member" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAASAFAAAAAAAAAAAAgCAAAAAAAAAAAIAAAAAAAAAQA=</HashCode>
+      <FileName>Member.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassDesign.Lesson" Collapsed="true">
+    <Position X="6.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACAAAEAAAAAAAAAAAAAAAAAAEAEAAAAAAgA=</HashCode>
+      <FileName>Lesson.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassDesign.Enrolment">
+    <Position X="4" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAgA=</HashCode>
+      <FileName>Enrolment.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="lessons" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="ClassDesign.DeliveryPlan">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>DeliveryPlan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassDesign.User" Collapsed="true">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassDesign.Payment" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAQAAAgA=</HashCode>
+      <FileName>Payment.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="member" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ClassDesign.MemberInRole" Collapsed="true">
+    <Position X="1.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>MemberInRole.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="member" />
+      <Field Name="role" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ClassDesign.Role" Collapsed="true">
+    <Position X="1.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Role.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
