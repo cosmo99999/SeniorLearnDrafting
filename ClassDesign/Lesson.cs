@@ -8,11 +8,11 @@ namespace ClassDesign;
 
 internal class Lesson
 {
-    int id;
-    public DateTime Start;
-    public DateTime End;
-    public string Title;
-    public DeliveryPlan DeliveryPlan;
+    private int id;
+    private DateTime Start;
+    private DateTime End;
+    private string Title;
+    private DeliveryPlan DeliveryPlan;
 
     Lesson(DateTime start, DateTime end, string title)
     {

@@ -1,0 +1,15 @@
+/home/roryc/Documents/Tafe/DatabaseAndProgramming/SeniorLearnDrafting/ClassDesign/obj/Debug/net9.0/ClassDesign.GeneratedMSBuildEditorConfig.editorconfig
+/home/roryc/Documents/Tafe/DatabaseAndProgramming/SeniorLearnDrafting/ClassDesign/obj/Debug/net9.0/ClassDesign.AssemblyInfoInputs.cache
+/home/roryc/Documents/Tafe/DatabaseAndProgramming/SeniorLearnDrafting/ClassDesign/obj/Debug/net9.0/ClassDesign.AssemblyInfo.cs
+/home/roryc/Documents/Tafe/DatabaseAndProgramming/SeniorLearnDrafting/ClassDesign/obj/Debug/net9.0/ClassDesign.csproj.CoreCompileInputs.cache
+/home/roryc/Documents/Tafe/DatabaseAndProgramming/SeniorLearnDrafting/ClassDesign/obj/Debug/net9.0/ClassDesign.sourcelink.json
+/home/roryc/Documents/Tafe/DatabaseAndProgramming/SeniorLearnDrafting/ClassDesign/bin/Debug/net9.0/ClassDesign
+/home/roryc/Documents/Tafe/DatabaseAndProgramming/SeniorLearnDrafting/ClassDesign/bin/Debug/net9.0/ClassDesign.deps.json
+/home/roryc/Documents/Tafe/DatabaseAndProgramming/SeniorLearnDrafting/ClassDesign/bin/Debug/net9.0/ClassDesign.runtimeconfig.json
+/home/roryc/Documents/Tafe/DatabaseAndProgramming/SeniorLearnDrafting/ClassDesign/bin/Debug/net9.0/ClassDesign.dll
+/home/roryc/Documents/Tafe/DatabaseAndProgramming/SeniorLearnDrafting/ClassDesign/bin/Debug/net9.0/ClassDesign.pdb
+/home/roryc/Documents/Tafe/DatabaseAndProgramming/SeniorLearnDrafting/ClassDesign/obj/Debug/net9.0/ClassDesign.dll
+/home/roryc/Documents/Tafe/DatabaseAndProgramming/SeniorLearnDrafting/ClassDesign/obj/Debug/net9.0/refint/ClassDesign.dll
+/home/roryc/Documents/Tafe/DatabaseAndProgramming/SeniorLearnDrafting/ClassDesign/obj/Debug/net9.0/ClassDesign.pdb
+/home/roryc/Documents/Tafe/DatabaseAndProgramming/SeniorLearnDrafting/ClassDesign/obj/Debug/net9.0/ClassDesign.genruntimeconfig.cache
+/home/roryc/Documents/Tafe/DatabaseAndProgramming/SeniorLearnDrafting/ClassDesign/obj/Debug/net9.0/ref/ClassDesign.dll

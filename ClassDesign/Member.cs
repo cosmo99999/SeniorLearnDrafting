@@ -8,22 +8,22 @@ namespace ClassDesign;
 
 internal class Member
 {
-    public int Id;
-    public User user;
-    public List<Enrolment> enrolments;
-    public List<DeliveryPlan> deliveryPlans;
-    public List<Role> roles;
+    private int Id;
+    private User user;
+    private List<Enrolment> enrolments;
+    private List<DeliveryPlan> deliveryPlans;
+    private List<Role> roles;
 
     public Member(int id)
     {
         Id = id;
     }
 
-    public bool CreateDeliveryPlan(List<Lesson> lessons)
+    public bool CreateDeliveryPlan(List<Lesson> lessons, bool isCourse)
     {
-        if(NoLessonConflicts(lessons) && IsProfesional())
+        if(DoesLessonConflictWithExisting(lessons) && IsProfesional())
         {
-            deliveryPlans.Add(new DeliveryPlan(lessons));
+            deliveryPlans.Add(new DeliveryPlan(lessons, isCourse));
             return true;
         }
         else
@@ -31,7 +31,7 @@ internal class Member
             return false;
         }
     }
-    public bool NoLessonConflicts(List<Lesson> lessonInput)
+    public bool DoesLessonConflictWithExisting(List<Lesson> lessonInput)
     {
         foreach(DeliveryPlan p in deliveryPlans)
         {

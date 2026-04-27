@@ -8,11 +8,12 @@ namespace ClassDesign;
 
 internal class DeliveryPlan
 {
-    public bool isCourse;
-    public List<Lesson> lessons;
+    private bool IsCourse;
+    public List<Lesson> Lessons {get; private set;}
     
-    public DeliveryPlan(List<Lesson> lessons)
+    public DeliveryPlan(List<Lesson> lessons, bool isCourse)
     {
-        for()
+        Lessons = lessons;
+        IsCourse = isCourse;
     }
 }

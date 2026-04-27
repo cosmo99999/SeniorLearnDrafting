@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "/JWyv2QHCHU=",
+  "dgSpecHash": "5XQ8sj3A8T4=",
   "success": true,
-  "projectFilePath": "C:\\TOBACKUP\\Coding\\diploma2026\\DatabaseAndProgramming\\assessment\\ourWork\\ClassDesign\\ClassDesign\\ClassDesign.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/roryc/Documents/Tafe/DatabaseAndProgramming/SeniorLearnDrafting/ClassDesign/ClassDesign.csproj",
+  "expectedPackageFiles": [
+    "/home/roryc/.nuget/packages/microsoft.netcore.app.ref/9.0.14/microsoft.netcore.app.ref.9.0.14.nupkg.sha512",
+    "/home/roryc/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.14/microsoft.aspnetcore.app.ref.9.0.14.nupkg.sha512",
+    "/home/roryc/.nuget/packages/microsoft.netcore.app.host.linux-x64/9.0.14/microsoft.netcore.app.host.linux-x64.9.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
